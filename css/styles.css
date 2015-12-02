@@ -42,3 +42,22 @@ a:hover {
 	color: #FFF;
 }
 /*jumbotron*/
+
+.fa fa-facebook {
+	color:#123;
+	text-align: right;
+}
+.fa fa-twitter {
+
+}
+.fa Linkedin {
+
+}
+
+/*media queries*/
+@media(max-width: 768px){
+	.jumbotron{
+		padding-top: 25px;
+		padding-bottom: 25px;
+	}
+}
